@@ -24,6 +24,6 @@ CSS
 
 
 
-Website - www.stefansaric.com
+
 Frontend Mentor - @stefanuxdev
 
