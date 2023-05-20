@@ -9,7 +9,7 @@ See the layout which will fit their screen on Desktop or Mobile
 
 
 
-Solution URL: 
+Solution URL: https://www.frontendmentor.io/solutions/frontendmentorresultssummarycomponents-kicloF6SOu
 Live Site URL: https://results-summary-components-1.netlify.app/
 My process
 
