@@ -10,7 +10,7 @@ See the layout which will fit their screen on Desktop or Mobile
 
 
 Solution URL: 
-Live Site URL: 
+Live Site URL: https://results-summary-components-1.netlify.app/
 My process
 
 
